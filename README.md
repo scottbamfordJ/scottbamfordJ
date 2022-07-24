@@ -1,7 +1,5 @@
-### Hello!
+#### Hello!
 
-<!--
-**scottbamfordJ/scottbamfordJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 In Spring 2022 I got my Masters Degree in Quantitative Methods in Social Science from CUNY Graduate Center, in May of 2019 I got my Bachelors Degree In International Relations from Pennslyvania State University. I have worked with Up In the Chair as a Intern focusing on creation of systems which would gather public sentiment on companys direction. I during my masters degree I worked as a research assitant utilizing the google suite to codify political tweets based upon a criteria, and R and ArcGIS to create visualizations and tablize ArcGIS tables. Currently I am working as an Engineering Intern at Foursquare, and was previously a Data Product Intern at Foursquare. 
 
