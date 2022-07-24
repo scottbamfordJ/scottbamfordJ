@@ -25,8 +25,7 @@ In Spring 2022 I got my Masters Degree in Quantitative Methods in Social Science
 [Terrorism in US Maps](https://github.com/scottbamfordJ/Data_Visualization_Project): Terrorism is a problem which has no solution or end in sight. Because of this understanding the historical and emprical patterns of terrorism specifically in the United States helps clear up miss communications in terrorism patterns and actions. 
 
 
-## 🌱 I'm Currently Learning:
-
-### I am learning more about AWS specifically S3 buckets as well as using Snowflake. I have plently of experience in SQL but re learning the limitaitons of Presto. 
+## 🌱 I'm Currently Learning: 
+I am learning more about AWS specifically S3 buckets as well as using Snowflake. I have plently of experience in SQL but re learning the limitaitons of Presto. 
 
 
