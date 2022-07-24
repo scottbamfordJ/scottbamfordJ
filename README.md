@@ -13,7 +13,7 @@ In Spring 2022 I got my Masters Degree in Quantitative Methods in Social Science
 
 [Stock Modeling Project](Stock_Modeling_Program): Create a machine learning model which can acurately predict outcomes from historical stock predictions. 
 
-## Finished Projects 
+## :heavy_check_mark: Finished Projects 
 
 ### I have finished multiple projects most of which are assignments that I've done during classes or in a way to finish my degree
 
