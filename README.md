@@ -1,7 +1,7 @@
 # Hello!
 
 
-In Spring 2022 I got my Masters Degree in Quantitative Methods in Social Science from CUNY Graduate Center, in May of 2019 I got my Bachelors Degree In International Relations from Pennslyvania State University. I have worked with Up In the Chair as a Intern focusing on creation of systems which would gather public sentiment on companys direction. I during my masters degree I worked as a research assitant utilizing the google suite to codify political tweets based upon a criteria, and R and ArcGIS to create visualizations and tablize ArcGIS tables. Currently I am working as an Engineering Intern at Foursquare, and was previously a Data Product Intern at Foursquare. 
+In Spring 2022 I got my Masters Degree in Quantitative Methods in Social Science from CUNY Graduate Center, in May of 2019 I got my Bachelors Degree In International Relations from Pennslyvania State University. I am currently a Back End Engineer focusing primarily on Computer vision models with reagrds to video, as well as gathering and scraping data from said videos. I am also a Technical Coach for a data analytics certificate program. 
 
 
 ## 🔭 Current Projects 
@@ -26,6 +26,6 @@ In Spring 2022 I got my Masters Degree in Quantitative Methods in Social Science
 
 
 ## 🌱 I'm Currently Learning: 
-I am learning more about AWS specifically S3 buckets as well as using Snowflake. I have plently of experience in SQL but re learning the limitaitons of Presto. 
+Currenting learning more about API as well as back end development. 
 
 
