@@ -23,6 +23,8 @@ In Spring 2022 I got my Masters Degree in Quantitative Methods in Social Science
 
 [Machine Learning Assignments](https://github.com/scottbamfordJ/Machine-Learning): Creation of Logistic Regression and Linear Regression Machine Learning models from scratch, as well as utlizing gradiant decent to optimize outcomes. And use Sklearn to run a MLP on the wine quality data set. 
 
+[Polynomial Regression Analysis](https://github.com/scottbamfordJ/Project-A-Week/tree/main/Cleaning%20and%20Analyzing%20IBM%20Watson%20Marketing%20Customer%20Value): Utlized and wrote out a report with (Basic A/B testing and Polynomial Regression) on Pokemon Dataset. 
+
 [Terrorism in US Maps](https://github.com/scottbamfordJ/Data_Visualization_Project): Terrorism is a problem which has no solution or end in sight. Because of this understanding the historical and emprical patterns of terrorism specifically in the United States helps clear up miss communications in terrorism patterns and actions. 
 
 
