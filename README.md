@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/scott-bamford/):
 
-In Spring 2022 I got my Masters Degree in Quantitative Methods in Social Science from CUNY Graduate Center, in May of 2019 I got my Bachelors Degree In International Relations from Pennslyvania State University. I am currently a Back End Engineer focusing primarily on Computer vision models with reagrds to video, as well as gathering and scraping data from said videos. I am also a Technical Coach for a data analytics certificate program. 
+In Spring 2022 I got my Masters Degree in Quantitative Methods in Social Science from CUNY Graduate Center, in May of 2019 I got my Bachelors Degree In International Relations from Pennslyvania State University. I am a self proclaimed Data Junky and I am always interested finding and potentially getting data in order to answer questions that I've had about the topic. 
 
 
 ## 🔭 Current Projects 
