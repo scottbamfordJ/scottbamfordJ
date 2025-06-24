@@ -15,6 +15,7 @@ In Spring 2022 I got my Masters Degree in Quantitative Methods in Social Science
 [Stock Modeling Project](Stock_Modeling_Program): Create a machine learning model which can acurately predict outcomes from historical stock predictions. 
 
 [Balatro Computer Vision](https://github.com/scottbamfordJ/Project-To-Do/tree/main/Balatro%20Computer%20Vision): Computer Vision to Optimize Card Choice based upon hit Rogue Like Balatro
+
 [Balatro Card Creation](https://github.com/scottbamfordJ/Project-To-Do/tree/main/Balatro%20Computer%20VisionFinished_Card): Creating Sythetic Dataset (Cards) to train the Above Machine Learning Project
 
 
